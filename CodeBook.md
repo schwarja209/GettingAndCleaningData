@@ -107,3 +107,41 @@ There are 5 parts to the transformation:
 - Group the data by subject and activity factors.
 
 - Summarize the data by mean by grouping into a new data set.
+
+## List of variables in the final tidy dataset:
+- Subject.ID - Numeric identifier of the 30 subjects of the experiment
+- Activity.ID - Activity performed by subjects
+- tBodyAcc.mean.X / Y / Z - mean of time body acceleration mean on X/Y/Z axes
+- tBodyAcc.std.X / Y / Z - mean of time body acceleration standard deviation on X/Y/Z axes
+- tGravityAcc.mean.X / Y / Z - mean of time gravity aceleration mean on X/Y/Z axes
+- tGravityAcc.std.X / Y / Z - mean of time gravity aceleration standard deviation on X/Y/Z axes
+- tBodyAccJerk.mean.X / Y / Z - mean of time acceleration jerk mean on X/Y/Z axes
+- tBodyAccJerk.std.X / Y / Z - mean of time acceleration jerk standard deviation on X/Y/Z axes
+- tBodyGyro.mean.X / Y / Z - mean of time body gyro mean on X/Y/Z axes
+- tBodyGyro.std.X / Y / Z - mean of time body gyro standard deviation on X/Y/Z axes
+- tBodyGyroJerk.mean.X / Y / Z - mean of time body gyro jerk mean on X/Y/Z axes
+- tBodyGyroJerk.std.X / Y / Z - mean of time body gyro jerk standard deviation on X/Y/Z axes
+- tBodyAccMag.mean - mean of time body acceleration mean across axes
+- tBodyAccMag.std - mean of time body acceleration standard deviation across axes
+- tGravityAccMag.mean - mean of time gravity aceleration mean across axes
+- tGravityAccMag.std - mean of time gravity aceleration standard deviation across axes
+- tBodyAccJerkMag.mean - mean of time acceleration jerk mean across axes
+- tBodyAccJerkMag.std - mean of time acceleration jerk standard deviation across axes
+- tBodyGyroMag.mean - mean of time body gyro mean across axes
+- tBodyGyroMag.std - mean of time body gyro standard deviation across axes
+- tBodyGyroJerkMag.mean - mean of time body gyro jerk mean across axes
+- tBodyGyroJerkMag.std - mean of time body gyro jerk standard deviation across axes
+- fBodyAcc.mean.X / Y / Z - mean of frequency body acceleration mean on X/Y/Z axes
+- fBodyAcc.std.X / Y / Z - mean of frequency body acceleration standard deviation on X/Y/Z axes
+- fBodyAccJerk.mean.X / Y / Z - mean of frequency acceleration jerk mean on X/Y/Z axes
+- fBodyAccJerk.std.X / Y / Z - mean of frequency acceleration jerk standard deviation on X/Y/Z axes
+- fBodyGyro.mean.X / Y / Z - mean of frequency body gyro mean on X/Y/Z axes
+- fBodyGyro.std.X / Y / Z - mean of frequency body gyro standard deviation on X/Y/Z axes
+- fBodyAccMag.mean - mean of frequency body acceleration mean across axes
+- fBodyAccMag.std - mean of frequency body acceleration standard deviation across axes
+- fBodyAccJerkMag.mean - mean of frequency acceleration jerk mean across axes
+- fBodyAccJerkMag.std - mean of frequency acceleration jerk standard deviation across axes
+- fBodyGyroMag.mean - mean of frequency body gyro mean across axes
+- fBodyGyroMag.std - mean of frequency body gyro standard deviation across axes
+- fBodyGyroJerkMag.mean - mean of frequency body gyro jerk mean across axes
+- fBodyGyroJerkMag.std - mean of frequency body gyro jerk standard deviation across axes
