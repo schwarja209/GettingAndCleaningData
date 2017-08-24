@@ -9,9 +9,9 @@ This is a code book that describes the variables, the data, and any transformati
 ## The data source
 
 
-*Original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+- Original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-*Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+- Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
 
@@ -102,8 +102,8 @@ There are 5 parts:
 
 - Combine the row labels with the data, and label the feature variables.
 - Combine the test and training data.
-* Extract the mean and standard deviation column data.
+- Extract the mean and standard deviation column data.
 
-* Group the data by subject and activity factors.
+- Group the data by subject and activity factors.
 
-* Summarize the data by mean by grouping into a new data set.
+- Summarize the data by mean by grouping into a new data set.
