@@ -24,10 +24,12 @@ The directions for this project were to take the data from ["Human Activity Reco
 1. Download the `run_analysis.R` script to your working directory.
 2. Run ```source("run_analysis.R")```.
 
+
 **Dependencies
 
 :**
 - The ```dplyr``` R package must be installed prior to running this script.  It can be installed using the ```install.packages``` command in R.
+
 
 **
 
