@@ -76,7 +76,7 @@ The following files are available for the train and test data. Their description
 
 
 
-There are 5 parts:
+There are 5 parts to the transformation:
 
 
 1. Merges the training and the test sets to create one data set.

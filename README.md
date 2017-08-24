@@ -26,7 +26,7 @@ The directions for this project were to take the data from ["Human Activity Reco
 ### Dependencies
 
 :
-- The ```dplyr``` R package must be installed prior to running this script.  It can be installed using the ```install.packages``` command in R.
+The ```dplyr``` R package must be installed prior to running this script.  It can be installed using the ```install.packages``` command in R.
 
 
 
