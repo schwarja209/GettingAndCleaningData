@@ -94,14 +94,14 @@ There are 5 parts:
 ## How ```run_analysis.R``` implements the above steps:
 
 
-* Require the ```dplyr``` library.
+- Require the ```dplyr``` library.
 
-* Load both test and training data
+- Load both test and training data
 , as well as the row labels.
-* Load the features and activity labels.
+- Load the features and activity labels.
 
-* Combine the row labels with the data, and label the feature variables.
-* Combine the test and training data.
+- Combine the row labels with the data, and label the feature variables.
+- Combine the test and training data.
 * Extract the mean and standard deviation column data.
 
 * Group the data by subject and activity factors.

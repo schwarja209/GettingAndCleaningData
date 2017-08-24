@@ -18,8 +18,7 @@ The directions for this project were to take the data from ["Human Activity Reco
 
 
 
-**The steps that must be performed to run the finished script are as follows:**
-
+**The steps that must be performed to run the finished script are as follows:
 
 1. Download the `run_analysis.R` script to your working directory.
 2. Run ```source("run_analysis.R")```.
@@ -27,11 +26,10 @@ The directions for this project were to take the data from ["Human Activity Reco
 
 **Dependencies
 
-:**
+:
 - The ```dplyr``` R package must be installed prior to running this script.  It can be installed using the ```install.packages``` command in R.
 
 
 **
 
 You can read more about the data and the analysis in the [code book](CodeBook.md).
-**
